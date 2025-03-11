@@ -1,0 +1,27 @@
+html,
+body {
+  padding: 0;
+  margin: 0;
+  /* overflow: scroll; */
+  scrollbar-width: none;
+  font-family: 'Helvetica', sans-serif; 
+
+}
+
+a {
+  color: inherit;
+  text-decoration: none;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+img {
+  max-width: 100%;
+  height: auto;
+}
+
+.react-loading-skeleton.react-loading-skeleton {
+  line-height: 2;
+}
